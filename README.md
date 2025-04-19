@@ -1,5 +1,5 @@
 # COP5570 Spring 2024 Team Project: P2P Gomoku Game
-## Group members: Dahai Yu, Lin Jiang, Shuai Wang
+## Group members: Lin Jiang, Dahai Yu
 
 ## Working Condition
 This demo is based on UDP protocol, and works only when
